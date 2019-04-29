@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c4f0c7e792914b34ba932310cd621215
+timeCreated: 1552969931
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SangSangFlowerRoad
+  fontNames:
+  - SangSangFlowerRoad
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
